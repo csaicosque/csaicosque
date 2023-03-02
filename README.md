@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there ✨
 
 My name is Cindi, and I'm (trying) to be a game designer.
 I'm a soon-to-be published writer and writing is the thing that I love the most.
