@@ -1,32 +1,37 @@
-# Hello there ✨
+# Hello there!
 
-My name is Cindi, and I'm (trying) to be a game designer.
-I'm a soon-to-be published writer and writing is the thing that I love the most.
-I love to create stories and worlds, and seeing how happy or intrigued or shocked people get with my stories is the best sensation in the whole world.
-I'm also a movie writer, director and actress (since 2020). I've written and directed two movies and acted in another two different movies. 
+2D & 3D Artist | Writer & Screenwriter | Game Design Student | Designer
 
-Recently I've started looking for new ways to create more immersive stories.
-I'm studying for my Game Development degree and I'll graduate on August 2025.
-I started learning Python in August 2022 at university and I
-fell in love with programming, something I never thought I'd do.
+## About me 💚
 
-I also enjoy artificial intelligence and virtual reality.
+I'm Cindi and it's great to have you here on my repository. I'm a 2D and 3D artist, writer, screenwriter, and game development student. I'm also addicted to tea and have an adorable orange cat named Ahsoka.
 
-I speak native Portuguese, intermediary English, limited Spanish and a little bit of french, _je ne pratique pas_.
+## Social 🍀
 
-Fun fact: I love Red Dead Redemption 2, that's the game that made me love games and want to be a game designer.
+<p align="center">
+  <a href="https://www.behance.net/cindisaicosque">
+    <img src="https://img.shields.io/badge/Behance-8AA6A3?style=for-the-badge&logo=behance&logoColor=black" alt="Behance">
+  </a>
+  <a href="https://www.linkedin.com/in/cindi-saicosque-a85994202/">
+    <img src="https://img.shields.io/badge/linkedin-8AA6A3?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/cindisaicosque/">
+    <img src="https://img.shields.io/badge/-Instagram-8AA6A3?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
+  </a>
+  <a href="https://medium.com/@cindisaicosque">
+    <img src="https://img.shields.io/badge/-Medium-8AA6A3?style=for-the-badge&logo=medium&logoColor=black" alt="Medium">
+  </a>
+</p>
 
-<!--
-**csaicosque/csaicosque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🐍
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-8AA6A3?style=for-the-badge&logo=markdown&logoColor=black" alt="Markdown">
+  <img src="https://img.shields.io/badge/HTML5-8AA6A3?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-8AA6A3?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3">
+  <img src="https://img.shields.io/badge/python-8AA6A3?style=for-the-badge&logo=python&logoColor=black" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-8AA6A3?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="C++">
+  <img src="https://img.shields.io/badge/godot_Engine-8AA6A3?style=for-the-badge&logo=godotengine&logoColor=black" alt="Godot Engine">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-8AA6A3.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/blender-8AA6A3.svg?style=for-the-badge&logo=blender&logoColor=black" alt="Blender">
+</p>
