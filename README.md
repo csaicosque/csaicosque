@@ -1,11 +1,11 @@
-# Hello there! 👋
+# Hello there! 
 
 **Narrative Designer & AI Enthusiast**  
 _Game Development Student | Former 2D/3D Artist | Writer & Worldbuilder_
 
 ---
 
-## 🌟 About Me
+## About Me 💚
 
 Hi! I'm **Cindi**, a game design student deeply passionate about storytelling, emergent narratives, and how artificial intelligence can expand the boundaries of interactivity and immersion.  
 
@@ -15,7 +15,7 @@ In past lives (that I still love), I’ve worked as a **2D/3D artist**, **screen
 
 ---
 
-## 🧠 Current Focus
+## Current Focus 🌱
 
 - 🎓 **TCC:** Narrative systems powered by AI  
 - 🧩 Procedural storytelling & worldbuilding  
@@ -24,7 +24,7 @@ In past lives (that I still love), I’ve worked as a **2D/3D artist**, **screen
 
 ---
 
-## 🌐 Find Me Here
+## Find Me Here 🍀
 
 <p align="center">
   <a href="https://www.behance.net/cindisaicosque">
@@ -43,7 +43,7 @@ In past lives (that I still love), I’ve worked as a **2D/3D artist**, **screen
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools 🐍
 
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-8AA6A3?style=for-the-badge&logo=markdown&logoColor=black" alt="Markdown">
